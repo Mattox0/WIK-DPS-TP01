@@ -14,7 +14,7 @@ Notre API devait :
 > Pour l'installation, il faut avoir `node` et `npm` installé sur sa machine.
 
 ```
-npm init -y 
+npm i
 
 npx tsc
 ```
