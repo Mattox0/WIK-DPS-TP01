@@ -12,8 +12,8 @@ Notre API devait :
 ### Installation
 
 > Pour l'installation, il faut avoir `node` et `npm` installé sur sa machine.
-
-```
+> Et ensuite, vous pouvez faires ces 3 commandes :
+```bash
 npm i
 
 npx tsc
@@ -23,7 +23,9 @@ npx tsc
 
 > Pour l'utilisation, il vous suffit de lancer la commande suivante pour lancer le serveur :
 
-```js
+```bash
 node build/index.js
 Server is running on PORT: 7878
 ```
+
+> Et pour tester l'API, vous pouvez utiliser `curl` ou `Postman`
